@@ -38,7 +38,7 @@ The project is organized into the following sections:
 
 ## Getting Started
 
-1. Clone this repository ```Git clone https://github.com/Churanta/Job-Recessions-Prediction.git```.
+1. Clone this repository. ``` Git clone https://github.com/Churanta/Job-Recessions-Prediction.git ```
 
 2. Install the required Python libraries using ```pip install pandas scikit-learn matplotlib```.
 
